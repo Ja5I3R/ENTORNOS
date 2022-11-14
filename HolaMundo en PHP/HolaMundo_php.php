@@ -2,7 +2,7 @@
     <html>
         <body>
             <?php
-                echo "Hola Mundo";
+                echo "Hola Mundo creado por Javier Trujillo";
             ?>
         </body>
     </html>
